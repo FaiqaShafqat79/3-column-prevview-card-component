@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/FaiqaShafqat79/3-column-prevview-card-component)
-- Live Site URL: ()
+- Live Site URL: (https://faiqashafqat79.github.io/3-column-prevview-card-component/)
 
 ## My process
 I have created the structure using Html5 and then style the component using CSS3 and flexbox
